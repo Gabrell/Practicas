@@ -1,0 +1,115 @@
+Last login: Tue Aug 20 18:24:17 on ttys000
+
+Rusia39:~ alumno$ mkdir practica-2
+
+Rusia39:~ alumno$ ls
+
+Desktop			Pictures		practica02_carpeta
+
+Downloads		nombre_carpeta		practica2
+
+Library			practica-2
+
+Rusia39:~ alumno$ cd practica-2
+
+Rusia39:practica-2 alumno$ mkdir fundamentos_de_programacion
+
+Rusia39:practica-2 alumno$ cd fundamentos_de_programacion
+
+Rusia39:fundamentos_de_programacion alumno$ cd ..
+
+Rusia39:practica-2 alumno$ cd ..
+
+Rusia39:~ alumno$  cd practica-2
+
+Rusia39:practica-2 alumno$ mkdir calculo
+
+Rusia39:practica-2 alumno$  cd calculo
+
+Rusia39:calculo alumno$ cd practica-2
+
+-bash: cd: practica-2: No such file or directory
+
+Rusia39:calculo alumno$ cd ..
+
+Rusia39:practica-2 alumno$  cd ..
+
+Rusia39:~ alumno$ cd practica-2
+
+Rusia39:practica-2 alumno$  cd calculo
+
+Rusia39:calculo alumno$ cd ..
+
+Rusia39:practica-2 alumno$ mkdir Quimica
+
+Rusia39:practica-2 alumno$ mkdir Algebra
+
+Rusia39:practica-2 alumno$ mkdir Fisica
+
+Rusia39:practica-2 alumno$ cd fundamentos_de_programacion
+
+Rusia39:fundamentos_de_programacion alumno$ touch archivo.txt
+
+Rusia39:fundamentos_de_programacion alumno$ ls
+
+archivo.txt
+
+Rusia39:fundamentos_de_programacion alumno$ echo "GabrielGuzman317198258" >> archivo.txt
+
+Rusia39:fundamentos_de_programacion alumno$ ls
+
+archivo.txt
+
+Rusia39:fundamentos_de_programacion alumno$ cd ..
+
+Rusia39:practica-2 alumno$ cd calculo
+
+Rusia39:calculo alumno$ touch archivo.txt
+
+Rusia39:calculo alumno$ echo 
+
+Rusia39:calculo alumno$ ls
+
+archivo.txt
+
+Rusia39:calculo alumno$ echo "GabrielGuzman317198258" >> archivo.txt
+
+Rusia39:calculo alumno$ ls
+
+archivo.txt
+
+Rusia39:calculo alumno$ cd ..
+
+Rusia39:practica-2 alumno$ cd Quimica
+
+Rusia39:Quimica alumno$ touch archivo.txt
+
+Rusia39:Quimica alumno$ echo "GabrielGuzman317198258" >> archivo.txt
+
+Rusia39:Quimica alumno$ cd ..
+
+Rusia39:practica-2 alumno$ cd algebra
+
+Rusia39:algebra alumno$ touch archivo.txt
+
+Rusia39:algebra alumno$ echo "GabrielGuzman317198258" >> archivo
+
+Rusia39:algebra alumno$ echo "GabrielGuzman317198258" >> archivo.txt
+
+Rusia39:algebra alumno$ cd ..
+
+Rusia39:practica-2 alumno$ cd fisica
+
+Rusia39:fisica alumno$ touch archivo.txt
+
+Rusia39:fisica alumno$ echo "GabrielGuzman317198258" >> archivo.txt
+
+Rusia39:fisica alumno$ cd..
+
+-bash: cd..: command not found
+
+Rusia39:fisica alumno$ cd ..
+
+Rusia39:practica-2 alumno$ cd ..
+
+Rusia39:~ alumno$ 
