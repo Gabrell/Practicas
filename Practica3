@@ -1,0 +1,36 @@
+a).Dado un precio calcular su descuento considerando que si su precio es mayor a 100 el descuento será %10 de otro modo si el precio es menor a 100 su descuento es de 2%.
+
+Datos De Entrada: Cantidad de precio.
+Datos De Salida:El precio con el descuento.
+
+Algoritmo:
+1. Solicitar el precio
+2. Si el precio es mayor o igual 100, multiplicar el precio por 0.10 y el resultado restarlo al precio original.
+3. Si el precio es menor a 100, multiplicar el precio por 0.02 y el resultado restarlo al precio original.
+4. El resultado de la resta, de la multiplicación al precio original en cada caso será el descuento. 
+
+
+
+B)Un algoritmo que lea 2 números y calcular su suma, resta, división, multiplicación de esos números.
+
+Datos De Entrada: 2 números que pertenezcan a los reales.
+Datos De Salida:El resultado de la suma, resta, división y multiplicación de los dos numeros.
+
+Algoritmo:
+ 1. Solicitar el num1 y el num2
+ 2. Sumar num1 y num2 obtener valor y mandarlo al punto 6 como resultado suma.
+ 3.Dividir num1 y num2 obtener valor y mandarlo al punto 6 como resultado división.
+4. Multiplicar num1 y num2 obtener valor y mandarlo al punto 6 como resultado multiplicación.
+5. Restar num1 y num2 obtener valor y mandarlo al punto 6 como resultado resta.
+ 6.Resultado de la suma, división, multiplicación, resta.
+
+
+C)Leer 3 numeros que van a denotar una fecha(día / mes/ año) y verificar si es una fecha valida.
+
+Datos De Entrada: 3 números que van a indicar una fecha.
+Datos De Salida: Fecha que sea valida.
+
+Algoritmo:
+1. Leer los 3 números 
+2. Si los algunos de los números son negativos regresar al punto1.
+3. 
